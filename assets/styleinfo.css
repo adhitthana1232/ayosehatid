@@ -1,4 +1,5 @@
 
+
 .banner{
     background: url("https://www.mountelizabeth.com.sg/Sitefinity/WebSiteTemplates/ParkwayTemplate/App_Themes/ParkwayTheme/Images/en/background/average-bill-size.png")
      no-repeat center center ;
@@ -39,8 +40,8 @@
      .formulir{
          margin-top: 150px;
          margin-bottom: 100px;
-         width: 450px;
-         height: 430px;
+         width: 370px;
+         height: 480px;
      }
  }
  @media screen and (max-width:991px){
