@@ -1,0 +1,51 @@
+
+.banner{
+    background: url("https://www.mountelizabeth.com.sg/Sitefinity/WebSiteTemplates/ParkwayTemplate/App_Themes/ParkwayTheme/Images/en/background/average-bill-size.png")
+     no-repeat center center ;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+ }
+ h1{
+     font-size: large;
+ }
+ .formulir{
+     margin-top: 10%;
+     margin-bottom: 5%;
+     padding: 0px 25px ;
+     width: 720px;
+     height: 400px;
+     background-color: rgb(204, 218, 237);
+     box-shadow: 0 0 10px lightsteelblue;
+     border-radius: 20px;
+ }
+ .formulir h2{
+     text-align: center;
+     border-bottom: 4px solid #2979ff;
+ }
+ .formulir h1{
+    text-align: center;
+}
+.formulir p{
+    border-bottom: 1px solid #2979ff;
+}
+ .copyright{
+     background:rgb(125, 140, 159);
+     text-align: center;
+     width: 100%;
+ }
+
+ @media screen and (max-width:767px){
+     .formulir{
+         margin-top: 150px;
+         margin-bottom: 100px;
+         width: 450px;
+         height: 430px;
+     }
+ }
+ @media screen and (max-width:991px){
+     .formulir{
+         margin-top: 150px;
+         margin-bottom: 100px;
+     }
+ }
